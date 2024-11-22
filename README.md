@@ -1,6 +1,9 @@
 # SAS
 Example SAS codes
 
+## sql_casestudy.sas
+This code was written as the final project for the SAS SQL class, so it's written almost exclusively using proc sql and is only sparsely commented.  It involves cleaning of raw TSA claims data from a .csv file, summarizing and merging with airport data, performing some summary analyses and outputting these to a .pdf report.
+
 ## deidentify.sas
 Macro to remove identifying ID, Age, and Date variables from CDISC datasets.  This macro was written as part of a training exercise and is not used in production programming.
 
